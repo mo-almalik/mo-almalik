@@ -9,7 +9,8 @@
 🛠️ Tech Stack:
 - ⚛️ React.js
 - 📐 HTML, CSS, JavaScript
-- bootstrap, tailwindcss
+- 🅱️ Bootstrap
+- 🌀 Tailwind CSS
 - 🚀 Redux for state management
 - 🔄 RESTful APIs
 - 📱 Responsive design with Flexbox and Grid
